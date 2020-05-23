@@ -1,27 +1,7 @@
-# t2p
+# Tale of Two Partners
+[Demo](https://marysjiang.github.io/t2p/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+## Overview
+Tale of Two Partners is a tool that allows authors to explore variants in stories and generate dramatic contrast in parameterized, five-act storylines based off of their choices. This project is based on Janet Murray’s abstraction framework for creating variation in interactive narratives, proposed in [“A Tale of Two Boyfriends: A Literary Abstraction Strategy for Creating Meaningful Character Variation."](http://penlab.gatech.edu/wp-content/uploads/sites/9/2018/09/T2B_Essay.pdf) The project departs from previous iterations examining [heterosexual](https://rickyyiew.github.io/T2B/index.html) and lesbian love triangles, instead focusing on gender neutral love triangles between a protagonist (GWEN), the Partner of Obligation (POG), and the Partner of Desire (POD). 
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This project was completed with Dr. Janet Murray of the Digital Integrative Liberal Arts Center.
